@@ -1,0 +1,44 @@
+body {
+  background-color: #e5b3fe;
+}
+.card {
+  margin: auto;
+  width: 50%;
+
+  padding: 10px;
+  top: 100px;
+  background-color: #ffcbf2;
+  border-radius: 10px;
+  box-shadow: 1px 1px 40px 1px rebeccapurple;
+}
+p {
+  text-align: center;
+  font-family: "Krona One", sans-serif;
+  font-size: 20px;
+}
+li {
+  border-radius: 5px;
+}
+#list-content{
+    border-radius: 10px;
+}
+img {
+  border-radius: 20%;
+  margin: auto;
+  width: 50%;
+  margin-top: 20px;
+}
+#add,
+#text {
+  color: #d124a6;
+  border: 1px solid #d124a6;
+  background-color: white;
+  border-radius: 0px;
+}
+#text {
+  border-radius: 10px 0px 0px 10px;
+  color: black;
+}
+#add {
+  border-radius: 0px 10px 10px 0px;
+}
